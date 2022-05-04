@@ -7,3 +7,7 @@ The Chrome Extension is using Auth0 to handle users and the only data that is st
 ## Developer
 
 Will be ready soon...
+
+# Thanks to
+
+* [@teuteuf](https://twitter.com/teuteuf) for making [WORLDLE](https://worldle.teuteuf.fr/)
